@@ -1,0 +1,7 @@
+---
+title: Test 2
+slug: test-2
+date: 15-06-2021
+---
+
+This is another test blog post!
