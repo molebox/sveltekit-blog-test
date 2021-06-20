@@ -1,7 +1,9 @@
 ---
 title: Test 1
-slug: test-1
 date: 16-06-2021
+published: true
 ---
+
+# {title}
 
 This is a test blog post
